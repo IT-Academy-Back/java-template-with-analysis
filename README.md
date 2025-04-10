@@ -1,6 +1,6 @@
 
 ![Refactoring Kata](https://img.shields.io/badge/Kata%20Refactoring-Easy-brightgreen?style=flat-square)
-![Kata CI Test](https://img.shields.io/github/actions/workflow/status/IT-Academy-Back/kata-rpg-refactoring/ci.yml?branch=main&label=CI%20Kata%20Test&style=flat-square)
+![Kata CI Test](https://img.shields.io/github/actions/workflow/status/IT-Academy-Back/java-template-with-analysis/ci.yml?branch=main&label=CI%20Kata%20Test&style=flat-square)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=IT-Academy-Back_kata-rpg-refactoring&metric=coverage)](https://sonarcloud.io/summary/new_code?id=IT-Academy-Back_kata-rpg-refactoring)
 
 > ⚠️ **Nota:** Los badges de CI y Cobertura apunta al repositorio original.
