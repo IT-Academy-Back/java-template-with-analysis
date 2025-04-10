@@ -12,7 +12,7 @@
 
 Este proyecto genera automáticamente un informe de cobertura tras cada *push* a `main`.  
 Puedes consultar el reporte accediendo a:
-[Cobertura de código](https://IT-Academy-Back.github.io/kata-rpg-refactoring)
+[Cobertura de código](https://IT-Academy-Back.github.io/java-template-with-analysis)
 
 ```
 https://TU_USUARIO.github.io/TU_REPOSITORIO/
